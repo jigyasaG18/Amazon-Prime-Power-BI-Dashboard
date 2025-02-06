@@ -45,6 +45,17 @@ The Amazon Prime Power BI Dashboard provides multiple insights into the platform
    - Insights derived from mapping content availability by country reveal intriguing patterns regarding regional offerings of films and TV shows.
    - This analysis allows for a deeper understanding of localized trends and preferences, which can drive targeted marketing and content recommendations based on geographic variance.
 
+### 7. **Seasonal Trends in Content Releases**
+   - An analysis of content release patterns suggests that there are specific months or seasons where Amazon Prime tends to release a higher volume of titles.
+   - Understanding these seasonal trends can help in planning marketing campaigns and special promotions, particularly around holidays or major cultural events, which often influence 
+     viewing behavior.
+
+### 8. **Viewer Engagement and Ratings Correlation**
+   - Investigating the correlation between viewer ratings and the number of ratings submitted reveals that higher-rated shows tend to attract more viewer feedback, indicative of a more 
+     engaged audience.
+   - This insight not only aids in identifying popular content but also emphasizes the importance of viewer interaction; shows that engage users effectively may have better chances of 
+     long-term success and might inform future programming decisions.
+
 ## Dashboard Features
 
 The Power BI dashboard includes:
