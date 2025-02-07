@@ -71,4 +71,4 @@ The Power BI dashboard includes:
 - **Power Query**: For data manipulation and preparation.
 - **DAX (Data Analysis Expressions)**: For data calculations and metrics.
 
-  ![Amazon Prime Power BI Dashboard](https://github.com/user-attachments/assets/97c66d04-0a06-45af-93f8-08dda8809944)
+![Amazon Prime Power BI Dashboard](https://github.com/user-attachments/assets/97c66d04-0a06-45af-93f8-08dda8809944)
